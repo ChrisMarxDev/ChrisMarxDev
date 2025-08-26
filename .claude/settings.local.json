@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:christopher-marx.de)",
+      "Bash(make:*)",
+      "Bash(brew install:*)"
+    ],
+    "deny": []
+  }
+}
