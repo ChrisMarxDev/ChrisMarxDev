@@ -4,7 +4,7 @@
 
 <img src="resume/me.png" width="200"/>
 
-**Senior Software Engineer**  
+**Senior Product Engineer**  
 Hamburg, Germany
 
 ## Summary
@@ -19,7 +19,7 @@ Architecture serves the product, not the other way around.
 - GitHub: [ChrisMarxDev](https://github.com/ChrisMarxDev)
 - LinkedIn: [christopher-marx](https://www.linkedin.com/in/christopher-marx-42bbb2179/)
 
-# Education
+## Education
 
 ### Master of Science in Business Informatics
 
@@ -33,13 +33,22 @@ University of Hamburg | 2016 – 2019 | Grade: 1.8
 
 University of Hamburg | 2013 – 2016 | Grade: 2.1
 
-Bachelor's thesis: The use of cloud computing for enterprise information systems, exemplified by retail, industry, and real estate
+Bachelor's thesis: The use of cloud computing for enterprise information systems, exemplified by retail, industry, and real estate.
 
 ### Abitur
 
 Vincent-Lübeck-Gymnasium, Stade | 2004 – 2013 | Grade: 1.9
 
-# Work Experience
+## Work Experience
+
+### Co-Founder & Product Engineer
+**Preeo UG (haftungsbeschränkt)** | Nov 2025 – Present
+
+- Company I founded with Anneke Flechtner to build health & lifestyle consumer apps.
+- Designed & built the [Preeo](https://apps.apple.com/de/app/preeo/id6756069271?l=en-GB) and [Chaase](https://apps.apple.com/us/app/chaase/id6772221212) apps.
+- Built the complete app, AI infrastructure, and backend.
+- Created the product concepts and held user interviews.
+
 
 ### Freelance Software Engineer
 **Self employed** | Sep 2020 – Present
@@ -102,9 +111,12 @@ Vincent-Lübeck-Gymnasium, Stade | 2004 – 2013 | Grade: 1.9
 
 - **Co-leading the Flutter DACH Community in Germany** - [Flutter DACH Meetup](https://www.meetup.com/de-DE/flutter-dach/)
 - **Hosting the Flutter DACH Podcast** - [Spotify](https://open.spotify.com/show/2NBzKyS8LTiGgajzkXkJoa)
+- **Side Projects**:
+    - [Cookd App](https://cookd.app/): Collaboratively create recipes with AI.
+    - [Tinkercloud](https://github.com/ChrisMarxDev/tinkercloud): A self-hostable environment for quickly deploying small AI apps, based on [Quick](https://shopify.engineering/quick).
+    - [Custom Bingo App](https://apps.apple.com/de/app/custom-bingo-no-signup/id6746847085?l=en-GB): A small bingo app I created for a stag do, which has garnered a few thousand downloads.
 - **Technical Writing** - [Blog Articles](https://christopher-marx.de/blog/go_router_navigation_observer/)
-- **Side Projects** - [Cookd App](https://cookd.app/)
-- **Volunteer work** @ Sport gegen Rassismus e.V.
+- **Volunteer work** @ Sport gegen Rassismus e.V. (not active anymore)
 
 ## Skills (Buzzwords)
 
