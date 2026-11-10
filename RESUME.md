@@ -9,8 +9,9 @@ Hamburg, Germany
 
 ## Summary
 
-Product-driven full‑stack engineer currently focused on Flutter and cross‑platform apps. I deliver value quickly and prioritize pragmatic engineering and high‑quality user outcomes instead of fussing over perfect architecture.
-Architecture serves the product, not the other way around.
+Product engineer and tinkerer, all in on AI-assisted development and exploring what the frontier makes possible as the field takes shape. I deliver value quickly through pragmatic engineering and a focus on high-quality user experiences. Architecture serves the product, not the other way around.
+
+Formerly focussing on cross-platform apps, nowadays dabbling in everything software.
 
 ### Contact Information
 
@@ -62,12 +63,13 @@ Vincent-Lübeck-Gymnasium, Stade | 2004 – 2013 | Grade: 1.9
 
   - **Norma Lebensmittelfilialbetrieb Stiftung & Co. KG**: Lead Flutter Developer for the NORMA Plus app. Leading the rebuild of the app in Flutter from scratch.
   - **BMW**: Prototyping with Flutter for web and mobile; digital twin app for vehicles.
+  - **Deutz**: Senior Developer on internal AI Tooling.
   - **Flip GmbH**: Mentor for the Flutter team.
   - **Rewe GmbH**: Senior Flutter Developer for the Cookie, Grill, and Summer Planner apps.
   - **App Innovators Solutions GmbH**: Flutter mentoring and interim senior developer.
   - **Xayn AG (now: noxtua AG)**: Senior Flutter engineer.
   - **Fatchd GmbH**: Senior Flutter and backend engineer.
-  - **Eurotime AG**: Lead Flutter developer for the Eurotime app and internal tooling.
+  - **Eurotime AG**: Lead developer for the Eurotime app, web board and internal tooling.
   - **Healy World GmbH**: Lead Flutter developer and Scrum Master. Leading the development of a Bluetooth health accessory companion app.
   - Miscellaneous smaller app and web clients.
   
@@ -112,6 +114,7 @@ Vincent-Lübeck-Gymnasium, Stade | 2004 – 2013 | Grade: 1.9
 - **Co-leading the Flutter DACH Community in Germany** - [Flutter DACH Meetup](https://www.meetup.com/de-DE/flutter-dach/)
 - **Hosting the Flutter DACH Podcast** - [Spotify](https://open.spotify.com/show/2NBzKyS8LTiGgajzkXkJoa)
 - **Side Projects**:
+    - [Open Source AI Video Editing Toolkit](https://github.com/ChrisMarxDev/cmrx-video-toolkit): Building tools for AI-assisted video editing and offering [complementary services](https://cmrx.dev).
     - [Cookd App](https://cookd.app/): Collaboratively create recipes with AI.
     - [Tinkercloud](https://github.com/ChrisMarxDev/tinkercloud): A self-hostable environment for quickly deploying small AI apps, based on [Quick](https://shopify.engineering/quick).
     - [Custom Bingo App](https://apps.apple.com/de/app/custom-bingo-no-signup/id6746847085?l=en-GB): A small bingo app I created for a stag do, which has garnered a few thousand downloads.
